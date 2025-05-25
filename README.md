@@ -5,3 +5,8 @@
 
 ### ENG:
 This tg-bot will help and answer your questions related to ecology.
+
+### Идеи ТГ-Бота:
+1. Помощь пользователям в сфере экологии
+2. Советы пользователям в сфере экологии
+3. Интересные факты экологии
